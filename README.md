@@ -8,3 +8,8 @@
 
 **Source de données:** [Demandes de valeurs foncières - Open Data](https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/)
 
+[dictionnaire des données](1_DATAImmo_DictionnaireDonnees.pdf)
+
+[Modèle conceptuel de donnée](2_DATAImmo_ModeleConceptuelDonnees.pdf)
+
+[Schémas Relationnel Normalise 3NF](3_DATAImmo_SchemasRelationnelNormalise3NF.pdf)
