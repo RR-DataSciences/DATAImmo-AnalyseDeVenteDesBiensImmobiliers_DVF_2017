@@ -15,6 +15,8 @@
 
 **Analyse et nettoyage** du data set afin de rédiger le [dictionnaire des données](1_DATAImmo_DictionnaireDonnees.pdf) correspondant aux besoins du projet.
 
-**Représentation de la Base de Données:** Le [Modèle Conceptuel de Donnée (MCD)](2_DATAImmo_ModeleConceptuelDonnees.pdf) représente les différentes classes ainsi que leurs attributs. La relation entre ces classes ainsi que le type des attributs sont représentés dans le [Schémas Relationnel Normalise 3NF](3_DATAImmo_SchemasRelationnelNormalise3NF.pdf).
+**La Base de Données est représentée** par le [Modèle Conceptuel de Donnée (MCD)](2_DATAImmo_ModeleConceptuelDonnees.pdf) dans lequel se trouve les classes ainsi que leurs attributs. La relation entre ces classes ainsi que le type des attributs sont représentés dans le [Schémas Relationnel Normalise 3NF](3_DATAImmo_SchemasRelationnelNormalise3NF.pdf).
+
+
 
 
