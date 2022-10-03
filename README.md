@@ -8,11 +8,13 @@
 
 **Source de données:** [Demandes de valeurs foncières (DVF) - Open Data](https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/)
 
-*Le présent jeu de données « Demandes de valeurs foncières », publié et produit par la direction générale des finances publiques, permet de connaître les transactions immobilières intervenues au cours des cinq dernières années sur le territoire métropolitain et les DOM-TOM, à l’exception de l’Alsace, de la Moselle et de Mayotte. Les données contenues sont issues des actes notariés et des informations cadastrales*
+*"Le présent jeu de données « Demandes de valeurs foncières », publié et produit par la direction générale des finances publiques, permet de connaître les transactions immobilières intervenues au cours des cinq dernières années sur le territoire métropolitain et les DOM-TOM, à l’exception de l’Alsace, de la Moselle et de Mayotte. Les données contenues sont issues des actes notariés et des informations cadastrales"*
 >Direction Générale des Finances Publiques, Dgf. (2022, 8 avril). Demandes de valeurs foncières (DVF) - data.gouv.fr. data.gouv.fr. Consulté le 3 juillet 2022, à l’adresse https://www.data.gouv.fr/fr/datasets/5c4ae55a634f4117716d5656/
 
-[dictionnaire des données](1_DATAImmo_DictionnaireDonnees.pdf)
+## 1. Création de la base de donnée
 
-[Modèle conceptuel de donnée](2_DATAImmo_ModeleConceptuelDonnees.pdf)
+**Analyse et nettoyage** du data set afin de rédiger le [dictionnaire des données](1_DATAImmo_DictionnaireDonnees.pdf) correspondant aux besoins du projet.
 
-[Schémas Relationnel Normalise 3NF](3_DATAImmo_SchemasRelationnelNormalise3NF.pdf)
+**Représentation de la Base de Données:** Le [Modèle Conceptuel de Donnée (MCD)](2_DATAImmo_ModeleConceptuelDonnees.pdf) représente les différentes classes ainsi que leurs attributs. La relation entre ces classes ainsi que le type des attributs sont représentés dans le [Schémas Relationnel Normalise 3NF](3_DATAImmo_SchemasRelationnelNormalise3NF.pdf).
+
+
