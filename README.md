@@ -21,7 +21,7 @@
 
 ## 2. Analyse de marché
 
-L'analyses a été réalisée en utilsant [des requêtes SQL](5_DATAImmo_Requetes.sql), voici les résultats:
+L'analyses a été réalisée avec [des requêtes SQL](5_DATAImmo_Requetes.sql), voici les résultats:
 
 1. Nombre total d’appartements vendus au 1er semestre 2020
 <img width="260" alt="Requete1_Resultat" src="https://user-images.githubusercontent.com/113794754/193700868-59f5bd8c-facf-4892-800a-fa74a80f82ca.png">
